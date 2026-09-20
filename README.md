@@ -52,7 +52,10 @@ docker run -p 8000:8000 hookrelay
 
 ## Live demo
 
-<!-- TODO: link once deployed -->
+Deployed on Render's free tier: https://hookrelay-fmzv.onrender.com/docs
+
+It's on a free instance, so it spins down after inactivity - the first request
+after a while can take 30-60s to wake back up.
 
 ## What's still missing / to do
 
